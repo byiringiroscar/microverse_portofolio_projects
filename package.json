@@ -1,0 +1,26 @@
+{
+  "name": "microverse_portofolio_projects",
+  "version": "1.0.0",
+  "description": "day 4 project in week 1 microverse where project is to add more content on web related with portfolio like about me and projects I done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byiringiroscar/microverse_portofolio_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/byiringiroscar/microverse_portofolio_projects/issues"
+  },
+  "homepage": "https://github.com/byiringiroscar/microverse_portofolio_projects#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
