@@ -98,8 +98,8 @@ After you're finished please remove all the comments and instructions!
 ### Prerequisites
 
 In order to run this project you need:
--vscode
--golive extension [optional]
+- vscode
+- golive extension [optional]
 
 <!--
 Example command:
@@ -172,7 +172,7 @@ Example command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-CONTRIBUTING
+<!-- CONTRIBUTING
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -180,7 +180,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- SUPPORT -->
 
